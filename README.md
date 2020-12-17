@@ -19,7 +19,7 @@ You'll be creating a simple, browser-based JavaScript game that utilizes `alert(
 
 ## Getting Started
 
-1. Create a folder for this assignment and create an `index.html` and `app.js` file to work in. 
+1. Create a landscaper folder for this assignment and create an `index.html` and `app.js` file to work in. 
 
 1. Connect your `app.js` file to your `index.html` file. Write some sort of `console.log()` in your `app.js` and open up your `index.html` file in the browser to check if you've connected your files correctly
 
